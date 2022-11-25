@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "77b6d5f1-a4fc-41dc-89cb-8a2613eaae68": {
+      "ProjectGuid": "77b6d5f1-a4fc-41dc-89cb-8a2613eaae68",
+      "DisplayName": "YazOkuluDersler",
+      "ColorIndex": 0
+    },
+    "92e6c04b-00c7-4289-9bc4-aee43ef7aab0": {
+      "ProjectGuid": "92e6c04b-00c7-4289-9bc4-aee43ef7aab0",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 1
+    },
+    "397fefb4-6326-44e4-bb6f-c07c31fd1e93": {
+      "ProjectGuid": "397fefb4-6326-44e4-bb6f-c07c31fd1e93",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 2
+    },
+    "6452f86d-527f-4511-ab14-70b71cd943b4": {
+      "ProjectGuid": "6452f86d-527f-4511-ab14-70b71cd943b4",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
